@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _1_2
-build_property.ProjectDir = c:\Users\user\Ruslan_C_Sharp\1_Lesson\1_2\
+build_property.RootNamespace = homework1
+build_property.ProjectDir = C:\Users\user\Ruslan_C_Sharp\1_Lesson\homework1\
